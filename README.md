@@ -1,31 +1,16 @@
-## 👤 Author
+# job_seeking_application
 
-**Mahmudul Hasan Sakib**   
-🆔 **Student ID:** 0182320012101417  
-📱 Flutter Developer  
+A new Flutter project.
 
----
+## Getting Started
 
-## 🎯 Purpose of This Project
+This project is a starting point for a Flutter application.
 
-- Practice Flutter app development  
-- Understand authentication and CRUD operations  
-- Build a real-world job portal system  
-- Improve UI/UX and backend integration skills  
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🔮 Future Improvements
-
-- Job search & filtering  
-- Resume upload feature  
-- In-app chat system  
-- Push notifications  
-- Admin panel  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to **fork**, **open issues**, or **submit pull requests**.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
